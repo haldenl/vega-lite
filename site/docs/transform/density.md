@@ -29,7 +29,7 @@ The density transform performs one-dimensional [kernel density estimation](https
 {"density": "measure", "groupby": ["key"]}
 ```
 
-Performs density estimation for the `"measure"` property, with separate estimations performed for each group of records with a distinct `"key"` property value. The output data is of the form:
+Performs density estimation for the `"measure"` field, with separate estimations performed for each group of records with a distinct `"key"` field value. The output data is of the form:
 
 ```js
 [

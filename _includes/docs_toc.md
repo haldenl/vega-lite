@@ -44,7 +44,6 @@
     - [Density]({{site.baseurl}}/docs/density.html)
         - [Density Transform Definition]({{site.baseurl}}/docs/density.html#density-transform-definition)
         - [Usage]({{site.baseurl}}/docs/density.html#usage)
-        - [Example]({{site.baseurl}}/docs/density.html#example)
     - [Filter]({{site.baseurl}}/docs/filter.html)
         - [Filter Expression]({{site.baseurl}}/docs/filter.html#expression)
         - [Field Predicate]({{site.baseurl}}/docs/filter.html#field-predicate)
